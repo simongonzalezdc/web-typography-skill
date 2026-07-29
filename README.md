@@ -1,10 +1,18 @@
 # Web Typography Skill
 
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+Agent skill for contextual, resilient web typography systems (hierarchy, font loading, multilingual wrap coverage).
+
+**Who it is for:** coding agents and frontend builders who need type systems that survive real content — not one pretty hero font.
+
+**What you get:** a portable skill package with attribution notes.
 
 ## Quick start
 
-Clone the repository and follow scripts or package docs in-tree for the current install path.
+```bash
+git clone https://github.com/simongonzalezdc/web-typography-skill.git
+cd web-typography-skill
+# symlink or copy into your agent skills directory
+```
 
 ## Docs
 
@@ -13,4 +21,4 @@ Clone the repository and follow scripts or package docs in-tree for the current 
 
 ## License
 
-See [LICENSE](LICENSE).
+Apache-2.0. See [LICENSE](LICENSE).
